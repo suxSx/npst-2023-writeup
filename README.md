@@ -1,2 +1,2 @@
 # NPST-2023
-This is a write up for the Christmas Challenge 2023 CTF by NPST. The following repo will accompany you through every day. All the files used can be found in this repo along with a possible solution, so you can attempt it for yourself.
+This is a write up for the Christmas Challenge 2023 CTF by NPST. The following repo will accompany you through every day, as seen in the video. All the files used can be found in this repo along with a possible solution, so you can attempt it for yourself.

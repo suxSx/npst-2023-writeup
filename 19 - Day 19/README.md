@@ -13,8 +13,11 @@ JULESOC har nylig mottatt en speilkopi av en arbeidsstasjon lokalisert på Julen
 
 ## Solution
 Open the file in autospy, and locate all the files in export. Then you can decrypt it by reversing the nissekodegeneartor by hand. Or you can ask chat gpt.
+
 ![img_1.png](img_1.png)
+
 I gave chat GPT the files and asked it to decrypt it for me and it gave me this:
+
 ![img.png](img.png)
 
 And also it provided the file that can decrypt it.
